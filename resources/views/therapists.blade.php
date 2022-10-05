@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello world!
+                    therapists page
                 </div>
 
                 <div class="links">
