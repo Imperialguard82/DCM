@@ -14,3 +14,12 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/therapistsappointments', function () {
+    return view('therapistsappointments');
+});
+
+Route::get('/therapistsavailability', function () {
+    return view('therapistsavailability');
+});
+
